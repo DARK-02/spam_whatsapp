@@ -1,7 +1,7 @@
 ## Spam WhatsApp
 > apa itu script Spam WhatsApp?
 
-> Spam WhatsApp adalah tools simple spam dengan api lummo dengan OPEN SOURCE CODE (jika sudah memasukkan token)
+> Spam WhatsApp adalah tools simple spam menggunakan api lummo dengan OPEN SOURCE CODE (jika sudah memasukkan token)
 
 > Token: [ https://cararegistrasi.com/MGILLeJhN6 ]
 ## Install
